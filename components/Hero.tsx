@@ -43,7 +43,7 @@ const Hero = () => {
           "Hi! I'm Abhishek 👋, a Full Stack Developer and Machine Learning Enthusiast 🤖 based in India 🇮🇳. I create dynamic, high-performance web experiences with a touch of intelligence!"
           </p>
 
-          <a href="#about">
+          <a href="#projects">
             <MagicButton
               title="Show my work"
               icon={<FaLocationArrow />}
